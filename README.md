@@ -7,7 +7,7 @@ Arrow left and Arrow Right keys to move the paddle.
 
 ### Rules
 The goal is to break all bricks with the ball.
-If the ball can't be catched or if a brick hits the paddle, the player will loose.
+If the ball can't be catched or if a brick hits the paddle, the player will lose.
 
 #### Mechanics
 - Green zone: the ball speed is increased.
